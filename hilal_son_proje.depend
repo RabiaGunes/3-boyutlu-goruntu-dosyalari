@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1571771233 source:c:\users\monster\desktop\yeni_kod_calismalarim\hilal_son_proje\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<dirent.h>
+	<errno.h>
+	<sys/stat.h>
+	<stdbool.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+
